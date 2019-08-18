@@ -1,0 +1,18 @@
+#navbarSupportedContent{
+    font-size: 20px;
+}
+#navbarSupportedContent ul li{
+    padding-left: 20px;
+}
+
+.buttens button{
+    width: 90px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+    color: white;
+}
